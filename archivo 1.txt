@@ -4,8 +4,12 @@
 
 44 solo en branch 1
 
+<<<<<<< HEAD
 55 solo en branch 1
 
 66 en que branch se guarda ?
 
 88 solo en branch master
+=======
+77 este si solo en branch 1
+>>>>>>> refs/remotes/origin/mi-branch-1
